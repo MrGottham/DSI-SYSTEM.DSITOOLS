@@ -1,0 +1,11 @@
+Kig-specifikation
+V503
+P0
+;Lin Pos H›j Bred Mode Tegn Overskrift..............................
+S 15   1   9   80   25   46 Kig
+I101
+O1
+;Feltnavn............ Pos.. Len.. Overskrift.......... Jus Dec Opt. Col
+FFILTYPENAVN             68    10 FILTYPE                0   0    0   5
+FSOURCEFILE              32    35 FILNAVN                0   0    0   5
+FSYSTEMNAVN               1    30 SYSTEM                 0   0    0   5

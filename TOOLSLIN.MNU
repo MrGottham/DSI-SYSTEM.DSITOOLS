@@ -1,0 +1,111 @@
+Database Übn hovedmenu
+V501
+Menu
+   0             1 Tools
+ 100             2  èben databasen
+ 110             2  Definer database
+ 120             2  Tõm database
+ 130             2  Datakopier database
+ 140             2  Genopbyg database
+ 150             2  Spër databaseformat
+ 200             2  èben rapport
+ 210             2  Definer rapport
+ 220             2  Spër rapportformat
+   0             2  èbningsformat
+ 300             3   Opbyg
+ 310             3   Slet
+   0             1 Vedligeholdelse
+1010             2  Opret
+2010             2  Ret
+3010             2  Slet
+5010             1 Kig
+   0             1 Sõgning
+6010             2  Find(??????????)
+   0             2  Bladr
+4010             3   Frem
+4020             3   Tilbage
+   0             2  Ny nõgle
+7010             3   ??????????
+7020             3   ??????????
+7030             3   ??????????
+7040             3   ??????????
+7050             3   ??????????
+7060             3   ??????????
+7070             3   ??????????
+7080             3   ??????????
+7090             3   ??????????
+7100             3   ??????????
+7110             3   ??????????
+7120             3   ??????????
+7130             3   ??????????
+7140             3   ??????????
+7150             3   ??????????
+7160             3   ??????????
+7170             3   ??????????
+7180             3   ??????????
+7190             3   ??????????
+7200             3   ??????????
+7310             3   ??????????
+7320             3   ??????????
+7330             3   ??????????
+7340             3   ??????????
+7350             3   ??????????
+7360             3   ??????????
+7370             3   ??????????
+7380             3   ??????????
+7390             3   ??????????
+7400             3   ??????????
+7210             3   Manuel
+7220             3   Global
+   0             2  Kriterier
+7530             3   Indtast
+7540             3   Aktiver
+   0             1 Diverse
+9020             2  Husk
+9030             2  Information
+9050             2  Skift vindue\reference
+   0             1 Afslut
+9996             2  Retur med data
+9997             2  Retur uden data
+9998             1 Retur til ??????????
+9999             1 Afslut
+  -1  Her fõlger de passive funktioner
+   0             1 Formularudtrëk
+9010             2  Skriv post
+9012             3   Angiv navn
+   0             1 Statistik
+8101             2  Udfõr
+8102             2  Definer
+   0             1 Rapport
+   0             2  Udskriv
+8011             3   Alle poster
+8014             3   Med kriterier
+8013             3   Med relation\sõgning
+8012             3   Denne post
+   0             2  Definer
+8021             3   Alle poster
+8022             3   Denne post
+7550             3   Information
+7520             3   Lagre
+7510             3   Hent
+   0             1 Kig
+   0             2  Felt
+5110             3   Indsët
+5140             3   Ret
+5120             3   Slet
+5130             3   Slet alle
+   0             2  Vindue
+5211             3   ?? linier
+5212             3   ?? linier
+5213             3   ?? linier
+5214             3   ?? linier
+5215             3   ?? linier
+5220             3   Opdater
+5230             3   Stõrrelse
+5240             3   Specifikation
+   0             2  Lagre
+5311             3   Standard
+5312             3   Angiv navn
+   0             2  Hent
+5321             3   Standard
+5322             3   Angiv navn

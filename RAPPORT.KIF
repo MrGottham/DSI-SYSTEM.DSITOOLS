@@ -1,0 +1,11 @@
+Kig-specifikation
+V503
+P0
+;Lin Pos H›j Bred Mode Tegn Overskrift..............................
+S 15   1   9   80   25   46 RAPPORTER
+I101
+O1
+;Feltnavn............ Pos.. Len.. Overskrift.......... Jus Dec Opt. Col
+FRPSLETFORMATTXT         69    10 FORMATSLET             0   0    0   5
+FRPSP’RFORMATTXT         58    10 FORMATSP’R             0   0    0   5
+FSOURCEFILE               1    56 FILNAVN                0   0    0   5

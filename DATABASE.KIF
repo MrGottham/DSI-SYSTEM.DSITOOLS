@@ -1,0 +1,15 @@
+Kig-specifikation
+V503
+P0
+;Lin Pos Hõj Bred Mode Tegn Overskrift..............................
+S 15   1   9   80   25   46 DATABASER
+I101
+O1
+;Feltnavn............ Pos.. Len.. Overskrift.......... Jus Dec Opt. Col
+FDBBYGFORMATTXT          90    10 FORMATBYG              0   0    0   5
+FDBDATAKOPIERTXT         57    10 DATAKOPI               0   0    0   5
+FDBGENOPBYGTXT           68    10 GENOPBYG               0   0    0   5
+FDBSLETFORMATTXT        101    10 FORMATSLET             0   0    0   5
+FDBSPíRFORMATXT          79    10 FORMATSPíR             0   0    0   5
+FDBTùMTXT                46    10 TùM                    0   0    0   5
+FSOURCEFILE               1    44 FILNAVN                0   0    0   5
